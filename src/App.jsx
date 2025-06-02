@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-      <div> <h1>Hello this is my first react app which is deployed</h1>
+      <div> <h1>Hello this is my first react app which is deployed</h1><br />
+      <h2>this is my second try</h2>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
